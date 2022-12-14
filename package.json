@@ -1,6 +1,6 @@
 {
-  "name": "djs-paginator",
-  "version": "1.0.1",
+  "name": "dsc-pagination",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "author": "Greensky <david.hesliere@gmail.com>",
   "license": "MIT",
