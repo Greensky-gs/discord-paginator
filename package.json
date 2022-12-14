@@ -1,6 +1,6 @@
 {
   "name": "dsc-pagination",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "author": "Greensky <david.hesliere@gmail.com>",
   "license": "MIT",
@@ -12,13 +12,14 @@
     "tsc": "^2.0.4",
     "typescript": "^4.9.4"
   },
-  "types": "dist/types/index.d.ts",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc -b",
     "lint": "prettier -w src"
   },
   "files": [
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "exports": {
     ".": {

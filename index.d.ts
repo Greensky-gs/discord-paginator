@@ -1,5 +1,5 @@
 import { ActionRowBuilder, ButtonBuilder, ButtonInteraction, EmbedBuilder, InteractionCollector } from "discord.js";
-import { paginatorOptions } from "./typing";
+import { paginatorOptions } from "./dist/types/typing";
 
 export class Paginator {
     public readonly options: paginatorOptions;
@@ -20,4 +20,4 @@ export class Paginator {
     public get index(): number;
 }
 
-export { buttonType, paginatorOptions } from './typing';
+export { buttonType, paginatorOptions } from './dist/types/typing';
