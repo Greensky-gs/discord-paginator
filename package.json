@@ -1,5 +1,5 @@
 {
-  "name": "discord-paginator",
+  "name": "djs-paginator",
   "version": "1.0.0",
   "main": "dist/index.js",
   "author": "Greensky <david.hesliere@gmail.com>",
