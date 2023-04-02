@@ -5,7 +5,7 @@
   "author": "Greensky <david.hesliere@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.8.0"
   },
   "devDependencies": {
     "prettier": "^2.8.1",
