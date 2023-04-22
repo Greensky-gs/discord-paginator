@@ -7,7 +7,7 @@ This is a module for Discord pagination embeds
 To use the paginator, simply use it like so :
 
 ```js
-const { Paginator } = require('dsc-paginator');
+const { Paginator } = require('dsc-pagination');
 
 const paginator = new Paginator({
     interaction: /* The command interaction goes here */,
